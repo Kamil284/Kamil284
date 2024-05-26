@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kamil284
 - 👀 I’m interested in new technology
 - 🌱 I’m currently learning english language and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kkowalik5197@gmail.com
 
 <!---
